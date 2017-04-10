@@ -5,6 +5,6 @@ body {
   font: 16px/1.5em Lucida Grande, Arial, sans-serif;
 }
 
-.image-drop {
+.drop-image {
   transform: translate3d(50%, 50%, 1px);
 }
